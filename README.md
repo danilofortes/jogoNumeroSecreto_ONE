@@ -97,7 +97,7 @@
 ---
 
 ## ✍️ Créditos
-Este projeto foi desenvolvido por [Seu Nome], como parte do programa Oracle Next Education em parceria com a Alura.
+Este projeto foi desenvolvido por Danilo Fortes, como parte do programa Oracle Next Education em parceria com a Alura.
 
 ---
 
