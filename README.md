@@ -15,9 +15,9 @@
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- ![JavaScript](https://camo.githubusercontent.com/2ed691285a3c5eec6c2b2cd2d2bc610a09e39dab92e69a5999a5d1a43b873c4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b) **JavaScript:** Para implementar a lógica do jogo e a interatividade.
-- **HTML:** Para a estruturação da interface do jogo.
-- **CSS:** Para estilização básica.
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) **JavaScript:** Para implementar a lógica do jogo e a interatividade.
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) **HTML:** Para a estruturação da interface do jogo.
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) **CSS:** Para estilização básica.
 - **responsiveVoice.js:** Biblioteca para fornecer suporte de áudio no jogo.
 
 ---
